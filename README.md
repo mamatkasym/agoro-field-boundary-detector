@@ -9,7 +9,7 @@ Detect field boundaries using satellite imagery.
 To install this package in your environment, run:
 
 ```bash
-pip install git+https://github.com/radix-ai/agoro-field-boundary-detector.git
+pip install git+https://github.com/mamatkasym/agoro-field-boundary-detector.git
 ```
 
 
